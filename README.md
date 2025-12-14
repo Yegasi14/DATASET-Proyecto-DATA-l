@@ -84,4 +84,29 @@ Se validaron las siguientes conclusiones:
 * **EE. UU.** genera las mayores ventas y costos, pero también el **mayor margen de beneficio neto**.
 * **Canadá** tiene costos notablemente altos en proporción a sus ventas.
 
-### Hipótesis 3:
+### Hipótesis 3: Educación y Tiendas
+* Clientes con **educación secundaria o universitaria** prefieren el formato de tienda `'Deluxe Supermarket'`.
+* **Oportunidad de Marketing:** Focalizar campañas en áreas cercanas a instituciones educativas.
+
+### Hipótesis 4: Género y Costos
+* La mediana del costo de venta es ligeramente superior para los hombres.
+* **Conclusión:** La diferencia es **no significativa** para implementar estrategias de marketing basadas únicamente en el género.
+
+### Hipótesis 5: Compras de Bebidas Alcohólicas
+* Los clientes **casados** compran más bebidas alcohólicas (**53.5%**) que los solteros, contradiciendo la suposición inicial.
+
+### Hipótesis 6: Rendimiento de la Tarjeta de Membresía
+* La tarjeta **`Bronze`** genera la **mayor frecuencia de ventas**, con montos recurrentes entre 5 y 10 millones.
+* La tarjeta `Golden` no es la que impulsa la mayor actividad de ventas.
+
+---
+
+## 🚀 Recomendaciones y Pasos a Seguir
+
+* **Implementación del Modelo:** Implementar el modelo de **Regresión Lineal** para la predicción de ventas debido a su **alta eficiencia y precisión**.
+* **Enfoque de Promociones:** Priorizar las campañas `Weekend Markdown`, `Two Day Sale` y `Price Savers`. Evaluar si `Green Light Special` debe ser descontinuada o reestructurada.
+* **Focalización Geográfica:** Investigar la alta proporción de costos en Canadá para implementar medidas de optimización.
+* **Monitoreo Continuo:** Establecer un sistema de monitoreo de los datos para detectar desviaciones en el impacto de las promociones y los cambios en las preferencias de los clientes.
+* **Análisis Futuro:** Considerar la exploración de otros modelos de Machine Learning (como SVM, GBM, Neural Networks, KNN, y XGBoost) para escenarios de predicción más complejos o específicos.
+
+
